@@ -2,4 +2,4 @@
 
 A 2D Maze Game developed for BlackOut Event of Technitude in DMCE
 
-###Made using Unity 3D 2021.3.9f1
+### Made using Unity 3D 2021.3.9f1
